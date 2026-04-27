@@ -11,7 +11,7 @@ I am a Doctor in Biological Sciences specialized in **Computational Biophysics**
 - **Scientific Computing:** Linux, Bash scripting, and large-scale scientific data processing.
 
 ### 📍 Relocation Status: Spain 🇪🇸
-- **Target Cities:** Valencia, Sevilla, Granada.
+- **Preferred Locations:** Valencia, Sevilla, Granada (Open to other biotech hubs in Spain).
 - **Legal Status:** Direct eligibility for **EU Family Member Residence Card**. 
 - **Availability:** Full work permit available immediately upon arrival.
 
