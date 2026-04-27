@@ -22,4 +22,4 @@ I am a Doctor in Biological Sciences specialized in **Computational Biophysics**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-📫 **Connect with me:** [LinkedIn] www.linkedin.com/in/maría-salomé-gastaldi| [Email] msalomegastaldi@gmail.com
+📫 **Connect with me:** [LinkedIn] www.linkedin.com/in/maría-salomé-gastaldi | [Email] msalomegastaldi@gmail.com
