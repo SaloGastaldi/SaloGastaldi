@@ -8,10 +8,10 @@ I am a PhD in Biological Sciences specializing in **Computational Biophysics and
 
 ### 🚀 Core Expertise
 
-- **AI for Drug Discovery:** Molecular property prediction, sequence modeling, and generative models (GNNs, Transformers).
-- **Molecular Modeling & Simulation:** Molecular Dynamics, docking, and virtual screening for biomolecular systems.
-- **Scientific Data Pipelines:** Processing and analyzing large-scale biological data using Python (NumPy, Pandas).
-- **Biophysical Analysis:** Membrane-protein interactions, lipid systems, and structure-function relationships.
+- **AI for Drug Discovery:** Molecular property prediction, sequence modeling, and generative models (GNNs, Transformers) applied to early-stage discovery.
+- **Molecular Modeling & Simulation:** Molecular Dynamics, docking, and virtual screening for biomolecular systems and drug interaction studies.
+- **Scientific Data Engineering:** Design of scalable data processing pipelines for biological and experimental datasets (NumPy, Pandas).
+- **Biophysical Analysis:** Membrane-protein interactions and lipid systems to understand structure–function relationships.
 
 ---
 
