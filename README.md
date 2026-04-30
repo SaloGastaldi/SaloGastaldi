@@ -1,25 +1,54 @@
 # Hi, I'm Salomé Gastaldi, PhD 👋
 
-**Computational & Experimental Biophysics | AI for Life Sciences | Biotech R&D**
+**Computational Scientist | AI for Drug Discovery | Molecular Modeling & Biophysics**
 
-I am a Doctor in Biological Sciences specialized in **Computational Biophysics**. My goal is to accelerate biotechnological development by integrating advanced molecular modeling and Artificial Intelligence. 
-
-### 🧬 Areas of Expertise
-- **Molecular Modeling & Simulation:** Extensive experience in MD simulations, docking, and virtual screening for drug discovery.
-- **AI & Data Science:** Deep Learning application for sequence analysis and biomolecular interactions (Python-based).
-- **Hybrid Approach:** Designing computational models with experimental validation (Spectrophotometry, Langmuir monolayers, Microscopy).
-- **Scientific Computing:** Linux, Bash scripting, and large-scale scientific data processing.
-
-### 📍 Relocation Status: Spain 🇪🇸
-- **Preferred Locations:** Valencia, Sevilla, Granada (Open to other biotech hubs in Spain).
-- **Legal Status:** Direct eligibility for **EU Family Member Residence Card**. 
-- **Availability:** Full work permit available immediately upon arrival.
+I am a PhD in Biological Sciences specializing in **Computational Biophysics and AI-driven molecular modeling**. I develop computational pipelines that integrate **Deep Learning, Molecular Dynamics, and data engineering** to support decision-making in biotech and pharmaceutical R&D.
 
 ---
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-📫 **Connect with me:** [LinkedIn] www.linkedin.com/in/maría-salomé-gastaldi | [Email] msalomegastaldi@gmail.com
+### 🚀 Core Expertise
+
+- **AI for Drug Discovery:** Molecular property prediction, sequence modeling, and generative models (GNNs, Transformers).
+- **Molecular Modeling & Simulation:** Molecular Dynamics, docking, and virtual screening for biomolecular systems.
+- **Scientific Data Pipelines:** Processing and analyzing large-scale biological data using Python (NumPy, Pandas).
+- **Biophysical Analysis:** Membrane-protein interactions, lipid systems, and structure-function relationships.
+
+---
+
+### 🧪 What I Do
+
+I focus on transforming complex biological data into actionable insights through:
+
+- End-to-end computational workflows for molecular analysis  
+- Integration of AI models into drug discovery pipelines  
+- Automation of simulation and data analysis processes  
+- Bridging computational predictions with experimental insights  
+
+---
+
+### 💼 Industry Focus
+
+- Drug discovery & early-stage screening  
+- Molecular modeling and simulation workflows  
+- AI applications in life sciences  
+- Computational support for experimental teams  
+
+---
+
+### 📍 Relocation: Spain 🇪🇸
+
+- Preferred: Valencia, Sevilla, Granada (open to relocation across Spain)  
+- Work authorization: Eligible for EU Family Member Residence Card  
+- Availability: To be agreed with employer  
+
+---
+
+### 🛠️ Tech Stack
+
+Python | PyTorch | TensorFlow | RDKit | GROMACS | VMD | Linux | Bash | Pandas | NumPy
+
+---
+
+📫 **Contact**
+- LinkedIn: www.linkedin.com/in/maría-salomé-gastaldi  
+- Email: msalomegastaldi@gmail.com
