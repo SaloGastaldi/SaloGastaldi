@@ -1,8 +1,10 @@
 # Hi, I'm Salomé Gastaldi, PhD 👋
 
-**Computational Scientist | AI for Drug Discovery | Molecular Modeling & Biophysics**
+**Computational Biologist | AI for Drug Discovery | Molecular Modeling & Biophysics**
 
-I am a PhD in Biological Sciences specializing in **Computational Biophysics and AI-driven molecular modeling**. I develop computational pipelines that integrate **Deep Learning, Molecular Dynamics, and data engineering** to support decision-making in biotech and pharmaceutical R&D.
+Computational Biologist specializing in AI-driven drug discovery and molecular modeling.
+
+I develop end-to-end computational pipelines that integrate Deep Learning, Molecular Dynamics, and biological data to generate actionable insights for biotech and pharmaceutical R&D.
 
 ---
 
@@ -15,14 +17,14 @@ I am a PhD in Biological Sciences specializing in **Computational Biophysics and
 
 ---
 
-### 🧪 What I Do
+🧪 What I Do
 
-I focus on transforming complex biological data into actionable insights through:
+I transform complex biological data into actionable insights by:
 
-- End-to-end computational workflows for molecular analysis  
-- Integration of AI models into drug discovery pipelines  
-- Automation of simulation and data analysis processes  
-- Bridging computational predictions with experimental insights  
+- Building end-to-end computational workflows for molecular and omics data analysis  
+- Integrating AI models into drug discovery pipelines  
+- Automating simulation and data processing workflows  
+- Bridging computational predictions with experimental validation  
 
 ---
 
@@ -35,11 +37,20 @@ I focus on transforming complex biological data into actionable insights through
 
 ---
 
-### 📍 Relocation: Spain 🇪🇸
+### 🎯 Target Roles
 
-- Preferred: Valencia, Sevilla, Granada (open to relocation across Spain)  
+- Computational Biologist
+- Bioinformatics Scientist
+- AI Scientist (Life Sciences)
+- Data Scientist (Healthcare / Biotech)
+
+---
+
+📍 Relocation: Spain 🇪🇸
+
+- Preferred locations: Valencia, Sevilla, Granada (open to relocation across Spain)  
 - Work authorization: Eligible for EU Family Member Residence Card  
-- Availability: To be agreed with employer  
+- Availability: Open / negotiable  
 
 ---
 
