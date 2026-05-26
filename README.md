@@ -1,65 +1,51 @@
-# Hi, I'm Salomé Gastaldi, PhD 👋
+### Hi, I'm Salomé Gastaldi, PhD 👋
 
 **Computational Biologist | AI for Drug Discovery | Molecular Modeling & Biophysics**
 
-Computational Biologist specializing in AI-driven drug discovery and molecular modeling.
-
+Computational Biologist specializing in AI-driven drug discovery and molecular modeling. 
 I develop end-to-end computational pipelines that integrate Deep Learning, Molecular Dynamics, and biological data to generate actionable insights for biotech and pharmaceutical R&D.
 
----
+## 🚀 Core Expertise
 
-### 🚀 Core Expertise
+• **AI for Drug Discovery:** Biological sequence modeling, protein representation learning, and generative architectures applied to sequence-level discovery.
+• **Molecular Modeling & Simulation:** Molecular Dynamics pipelines, ensemble docking, and virtual screening for biomolecular systems.
+• **Scientific Data Engineering:** Design of clean, scalable data processing and analysis workflows for biological and experimental datasets.
+• **Biophysical Analysis:** Membrane-protein interactions, lipid systems, and molecular orientation studies to decode structure–function relationships.
 
-- **AI for Drug Discovery:** Molecular property prediction, sequence modeling, and generative models (GNNs, Transformers) applied to early-stage discovery.
-- **Molecular Modeling & Simulation:** Molecular Dynamics, docking, and virtual screening for biomolecular systems and drug interaction studies.
-- **Scientific Data Engineering:** Design of scalable data processing pipelines for biological and experimental datasets (NumPy, Pandas).
-- **Biophysical Analysis:** Membrane-protein interactions and lipid systems to understand structure–function relationships.
-
----
-
-🧪 What I Do
+## 🧪 What I Do
 
 I transform complex biological data into actionable insights by:
+• Building end-to-end computational workflows for molecular and omics data analysis
+• Integrating deep learning models into biological sequence analysis pipelines
+• Automating molecular dynamics and data processing workflows in scientific computing environments
+• Bridging computational predictions with experimental validation
 
-- Building end-to-end computational workflows for molecular and omics data analysis  
-- Integrating AI models into drug discovery pipelines  
-- Automating simulation and data processing workflows  
-- Bridging computational predictions with experimental validation  
+## 💼 Industry Focus
 
----
+• Drug discovery & early-stage screening
+• Molecular modeling and simulation workflows
+• AI applications in life sciences
+• Computational support for experimental R&D teams
 
-### 💼 Industry Focus
+## 🎯 Target Roles
 
-- Drug discovery & early-stage screening  
-- Molecular modeling and simulation workflows  
-- AI applications in life sciences  
-- Computational support for experimental teams  
+• Computational Biologist / Bioinformatician
+• AI Scientist (Life Sciences / Biotech)
+• Scientific Data Engineer / Data Scientist
 
----
+## 📍 Relocation & Status
 
-### 🎯 Target Roles
+• **Target Locations:** Valencia, Sevilla, Granada (Open to relocation across Spain 🇪🇸)
+• **Work Authorization:** 
+  - Eligible for EU Family Member Residence Card (Personal processing pathway)
+  - Also eligible/open to company-sponsored visas (Highly Skilled Professional / PAC visa)
+• **Availability:** Open / Negotiable
 
-- Computational Biologist
-- Bioinformatics Scientist
-- AI Scientist (Life Sciences)
-- Data Scientist (Healthcare / Biotech)
+## 🛠️ Tech Stack
 
----
+Python | PyTorch | RDKit | GROMACS | VMD | Linux | Bash | Pandas | NumPy | Scikit-learn
 
-📍 Relocation: Spain 🇪🇸
+## 📫 Contact
 
-- Preferred locations: Valencia, Sevilla, Granada (open to relocation across Spain)  
-- Work authorization: Eligible for EU Family Member Residence Card  
-- Availability: Open / negotiable  
-
----
-
-### 🛠️ Tech Stack
-
-Python | PyTorch | TensorFlow | RDKit | GROMACS | VMD | Linux | Bash | Pandas | NumPy
-
----
-
-📫 **Contact**
-- LinkedIn: www.linkedin.com/in/maría-salomé-gastaldi  
-- Email: msalomegastaldi@gmail.com
+• **LinkedIn:** www.linkedin.com/in/maría-salomé-gastaldi
+• **Email:** msalomegastaldi@gmail.com
