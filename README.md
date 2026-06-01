@@ -1,68 +1,119 @@
-### Hi, I'm Salomé Gastaldi, PhD 👋
+# Hi, I'm Salomé Gastaldi, PhD 👋
 
 **Computational Biologist | AI for Drug Discovery | Molecular Modeling & Biophysics**
 
-Computational Biologist specializing in AI-driven drug discovery and molecular modeling. 
-I develop end-to-end computational pipelines that integrate Deep Learning, Molecular Dynamics, and biological data to generate actionable insights for biotech and pharmaceutical R&D.
+Computational Biologist specializing in AI-driven drug discovery, molecular modeling, and data-driven approaches for biotech R&D.
+
+I develop end-to-end computational pipelines that integrate **Deep Learning**, **Molecular Dynamics**, and biological data analysis to generate actionable insights for biotech and pharmaceutical research. My work combines computational modeling with experimental validation, bridging biological hypotheses with scalable data-driven discovery workflows.
+
+---
 
 ## 🚀 Core Expertise
 
-• **AI for Drug Discovery:** Biological sequence modeling, protein representation learning, and generative architectures applied to sequence-level discovery.
+### AI for Drug Discovery
 
-• **Molecular Modeling & Simulation:** Molecular Dynamics pipelines, ensemble docking, and virtual screening for biomolecular systems.
+* Biological sequence modeling
+* Protein representation learning
+* Deep learning architectures for sequence-based discovery
+* Molecular property prediction and biomolecular interaction modeling
 
-• **Scientific Data Engineering:** Design of clean, scalable data processing and analysis workflows for biological and experimental datasets.
+### Molecular Modeling & Simulation
 
-• **Biophysical Analysis:** Membrane-protein interactions, lipid systems, and molecular orientation studies to decode structure–function relationships.
+* Molecular Dynamics pipelines
+* Ensemble docking
+* Virtual screening
+* Biomolecular interaction analysis
+
+### Scientific Data Engineering
+
+* Design of clean, scalable pipelines for biological and experimental datasets
+* Data processing and workflow automation for scientific computing applications
+
+### Computational + Experimental Biology
+
+* Integration of computational predictions with experimental validation
+* Biophysical assays and spectrophotometric characterization
+* Optical and fluorescence microscopy
+* Membrane models and biomimetic systems
+* Cell culture, cell counting, and cell viability assays (MTT)
+
+---
 
 ## 🧪 What I Do
 
-I transform complex biological data into actionable insights by:
+I work at the intersection of **AI, molecular modeling, and experimental biology** to transform complex biological data into actionable insights.
 
-• Building end-to-end computational workflows for molecular and omics data analysis
+My work includes:
 
-• Integrating deep learning models into biological sequence analysis pipelines
+* Building end-to-end computational workflows for molecular and omics data analysis
+* Developing deep learning pipelines for biological sequence analysis
+* Automating molecular dynamics simulations and downstream analysis
+* Studying biomolecular interactions and structure–function relationships
+* Connecting computational predictions with experimental validation in R&D environments
 
-• Automating molecular dynamics and data processing workflows in scientific computing environments
-
-• Bridging computational predictions with experimental validation
+---
 
 ## 💼 Industry Focus
 
-• Drug discovery & early-stage screening
+* Drug discovery & early-stage screening
+* Molecular modeling and simulation workflows
+* AI applications in life sciences
+* Computational support for biotech and experimental R&D teams
+* Data-driven discovery in biotechnology and healthtech
 
-• Molecular modeling and simulation workflows
-
-• AI applications in life sciences
-
-• Computational support for experimental R&D teams
+---
 
 ## 🎯 Target Roles
 
-• Computational Biologist / Bioinformatician
+* Computational Biologist
+* Bioinformatician
+* AI Scientist (Life Sciences / Biotech)
+* Molecular Modeling Scientist
+* Scientific Data Scientist / Scientific Data Engineer
 
-• AI Scientist (Life Sciences / Biotech)
+---
 
-• Scientific Data Engineer / Data Scientist
+## 📍 Location & Availability
 
-## 📍 Relocation & Status
+* Based in Rosario, Argentina 🇦🇷
+* Open to remote opportunities
+* Open to relocation across Spain 🇪🇸
+  *(especially Valencia, Sevilla, and Granada)*
 
-• **Target Locations:** Valencia, Sevilla, Granada (Open to relocation across Spain 🇪🇸)
+### Work Authorization
 
-• **Work Authorization:** 
-  
-  - Eligible for EU Family Member Residence Card (Personal processing pathway)
+* Eligible for EU Family Member Residence Card (personal processing pathway)
+* Also open to company-sponsored visas
 
-  - Also eligible/open to company-sponsored visas (Highly Skilled Professional / PAC visa)
+### Availability
 
-• **Availability:** Open / Negotiable
+* Open / Negotiable
+
+---
 
 ## 🛠️ Tech Stack
 
-Python | PyTorch | RDKit | GROMACS | VMD | Linux | Bash | Pandas | NumPy | Scikit-learn
+**Languages & Data Science**
+Python • Pandas • NumPy • Scikit-learn
+
+**Deep Learning & AI**
+PyTorch
+
+**Molecular Modeling & Computational Chemistry**
+GROMACS • RDKit • VMD
+
+**Scientific Computing**
+Linux • Bash • HPC environments
+
+---
+
+## 📂 Portfolio
+
+🔗 GitHub Portfolio: https://github.com/SaloGastaldi
+
+---
 
 ## 📫 Contact
 
-• **LinkedIn:** www.linkedin.com/in/maría-salomé-gastaldi
-
-• **Email:** msalomegastaldi@gmail.com
+* LinkedIn: [www.linkedin.com/in/maría-salomé-gastaldi](http://www.linkedin.com/in/maría-salomé-gastaldi)
+* Email: [msalomegastaldi@gmail.com](mailto:msalomegastaldi@gmail.com)
