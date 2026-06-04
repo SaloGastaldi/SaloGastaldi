@@ -80,11 +80,6 @@ My work includes:
 * Open to relocation across Spain 🇪🇸
   *(especially Valencia, Sevilla, and Granada)*
 
-### Work Authorization
-
-* Eligible for EU Family Member Residence Card (personal processing pathway)
-* Also open to company-sponsored visas
-
 ### Availability
 
 * Open / Negotiable
