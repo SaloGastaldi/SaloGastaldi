@@ -61,14 +61,15 @@ By combining computational modeling with experimental biology experience, I help
 
 ## 🧪 What I Do
 
-I work at the intersection of **AI, molecular modeling, and experimental biology** to transform complex biological data into actionable insights.
+I work at the intersection of **AI, molecular modeling, and experimental biology** to transform complex biological data into actionable insights for biotech and pharmaceutical R&D.
 
 My work includes:
 
 * Building end-to-end computational workflows for molecular and omics data analysis
-* Developing deep learning pipelines for biological sequence analysis
-* Automating molecular dynamics simulations and downstream analysis
+* Developing machine learning and deep learning pipelines for biological sequence analysis
+* Automating molecular dynamics simulations and downstream data processing
 * Studying biomolecular interactions and structure–function relationships
+* Designing reproducible scientific computing workflows for research applications
 * Connecting computational predictions with experimental validation in R&D environments
 
 ---
@@ -134,17 +135,17 @@ Scientific Data Processing • Workflow Automation • Reproducible Computationa
 ### 🧬 AI for Drug Discovery
 Deep learning models for biological sequence analysis, protein representation learning, and molecular prediction.
 
-🔗 Repository: github.com/SaloGastaldi/ai-for-drug-discovery
+🔗 Repository: [github.com/SaloGastaldi/ai-for-drug-discovery](github.com/SaloGastaldi/ai-for-drug-discovery)
 
 ### ⚛️ Molecular Modeling Workflows
 Automated molecular dynamics, docking, and membrane biophysics analysis pipelines.
 
-🔗 Repository: github.com/SaloGastaldi/md-drug-discovery-workflows
+🔗 Repository: [github.com/SaloGastaldi/md-drug-discovery-workflows](github.com/SaloGastaldi/md-drug-discovery-workflows)
 
 ### 📊 Scientific Computing & Data Engineering
 Python-based scientific computing, algorithm development, data processing, and workflow automation for research applications.
 
-🔗 Repository: github.com/SaloGastaldi/scientific-data-engineering-biotech
+🔗 Repository: [github.com/SaloGastaldi/scientific-data-engineering-biotech](github.com/SaloGastaldi/scientific-data-engineering-biotech)
 
 ---
 
