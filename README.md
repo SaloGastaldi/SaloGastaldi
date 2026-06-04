@@ -1,35 +1,55 @@
-# Hi, I'm Salomé Gastaldi, PhD 👋
+# Hi, I'm Salomé Gastaldi 👋
 
-**Computational Biologist | AI for Drug Discovery | Molecular Modeling & Biophysics**
+**Computational Biologist, PhD | AI for Drug Discovery | Molecular Modeling | Scientific Computing**
+
+🔬 Building AI and computational workflows for drug discovery, molecular modeling, and life science R&D.
 
 Computational Biologist specializing in AI-driven drug discovery, molecular modeling, and data-driven approaches for biotech R&D.
 
-I develop end-to-end computational pipelines that integrate **Deep Learning**, **Molecular Dynamics**, and biological data analysis to generate actionable insights for biotech and pharmaceutical research. My work combines computational modeling with experimental validation, bridging biological hypotheses with scalable data-driven discovery workflows.
+I develop reproducible computational workflows, scientific software, and data-driven solutions for biological data analysis, molecular modeling, and AI-driven discovery.
+
+My work combines machine learning, molecular simulations, and scientific computing to support decision-making in biotech and pharmaceutical R&D environments.
+
+By combining computational modeling with experimental biology experience, I help bridge biological hypotheses with scalable discovery and research workflows.
 
 ---
 
 ## 🚀 Core Expertise
 
-### AI for Drug Discovery
+### 🧬 Computational Biology & Bioinformatics
 
-* Biological sequence modeling
+* Biological sequence analysis
 * Protein representation learning
-* Deep learning architectures for sequence-based discovery
-* Molecular property prediction and biomolecular interaction modeling
+* Structure–function relationship studies
+* Computational analysis of biological datasets
+* Data-driven approaches for life science research
 
-### Molecular Modeling & Simulation
+### 🧠 AI for Drug Discovery
 
-* Molecular Dynamics pipelines
+* Deep learning for biological sequence modeling
+* Molecular property prediction
+* Biomolecular interaction modeling
+* Machine learning applications in life sciences
+* AI-driven discovery workflows
+
+### ⚛️ Molecular Modeling & Simulation
+
+* Molecular Dynamics simulations
 * Ensemble docking
 * Virtual screening
 * Biomolecular interaction analysis
+* Molecular modeling workflows for drug discovery
 
-### Scientific Data Engineering
+### 📊 Scientific Computing & Data Engineering
 
-* Design of clean, scalable pipelines for biological and experimental datasets
-* Data processing and workflow automation for scientific computing applications
+* Scientific workflow automation
+* Reproducible computational pipelines
+* Data processing and analysis for biological datasets
+* Workflow optimization for research environments
+* HPC-based scientific computing
+* Development of reproducible workflows for large-scale biological and simulation datasets
 
-### Computational + Experimental Biology
+### 🔬 Computational & Experimental Biology
 
 * Integration of computational predictions with experimental validation
 * Biophysical assays and spectrophotometric characterization
@@ -60,6 +80,10 @@ My work includes:
 * AI applications in life sciences
 * Computational support for biotech and experimental R&D teams
 * Data-driven discovery in biotechnology and healthtech
+* Computational biology platforms
+* Bioinformatics-driven R&D
+* Research software development
+* Scientific data infrastructure
 
 ---
 
@@ -69,7 +93,9 @@ My work includes:
 * Bioinformatician
 * AI Scientist (Life Sciences / Biotech)
 * Molecular Modeling Scientist
-* Scientific Data Scientist / Scientific Data Engineer
+* Scientific Data Scientist
+* Scientific Software Developer
+* Research Software Engineer
 
 ---
 
@@ -78,33 +104,47 @@ My work includes:
 * Based in Rosario, Argentina 🇦🇷
 * Open to remote opportunities
 * Open to relocation across Spain 🇪🇸
-  *(especially Valencia, Sevilla, and Granada)*
-
-### Availability
-
-* Open / Negotiable
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Data Science**
-Python • Pandas • NumPy • Scikit-learn
+### Programming
+Python • Bash
 
-**Deep Learning & AI**
-PyTorch
+### Data Science & Machine Learning
+Pandas • NumPy • Scikit-learn • PyTorch
 
-**Molecular Modeling & Computational Chemistry**
-GROMACS • RDKit • VMD
+### Computational Biology & Bioinformatics
+Biological Sequence Analysis • Protein Modeling • Data-Driven Discovery
 
-**Scientific Computing**
-Linux • Bash • HPC environments
+### Molecular Modeling
+GROMACS • AutoDock Vina • RDKit • VMD
+
+### Scientific Computing
+Linux • Git • HPC Environments • SLURM
+
+### Workflow Development
+Scientific Data Processing • Workflow Automation • Reproducible Computational Pipelines
 
 ---
 
-## 📂 Portfolio
+## 📌 Featured Projects
 
-🔗 GitHub Portfolio: https://github.com/SaloGastaldi
+### 🧬 AI for Drug Discovery
+Deep learning models for biological sequence analysis, protein representation learning, and molecular prediction.
+
+🔗 Repository: github.com/SaloGastaldi/ai-for-drug-discovery
+
+### ⚛️ Molecular Modeling Workflows
+Automated molecular dynamics, docking, and membrane biophysics analysis pipelines.
+
+🔗 Repository: github.com/SaloGastaldi/md-drug-discovery-workflows
+
+### 📊 Scientific Computing & Data Engineering
+Python-based scientific computing, algorithm development, data processing, and workflow automation for research applications.
+
+🔗 Repository: github.com/SaloGastaldi/scientific-data-engineering-biotech
 
 ---
 
