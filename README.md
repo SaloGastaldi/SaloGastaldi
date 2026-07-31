@@ -1,16 +1,16 @@
 # Hi, I'm Salomé Gastaldi 👋
 
-**Computational Biologist, PhD | AI for Drug Discovery | Molecular Modeling | Scientific Computing**
+**Computational Biologist, PhD | Bioinformatics | Drug Discovery | AI | Scientific Computing**
 
 🔬 Building AI and computational workflows for drug discovery, molecular modeling, and life science R&D.
 
-Computational Biologist specializing in AI-driven drug discovery, molecular modeling, and data-driven approaches for biotech R&D.
+Computational Biologist with industrial consulting experience in bioinformatics, molecular modeling, and AI for life sciences.
 
 I develop reproducible computational workflows, scientific software, and data-driven solutions for biological data analysis, molecular modeling, and AI-driven discovery.
 
 My work combines machine learning, molecular simulations, and scientific computing to support decision-making in biotech and pharmaceutical R&D environments.
 
-By combining computational modeling with experimental biology experience, I help bridge biological hypotheses with scalable discovery and research workflows.
+By integrating computational modeling with experimental biology, I help bridge biological hypotheses with scalable discovery and research workflows.
 
 ---
 
@@ -71,6 +71,15 @@ My work includes:
 * Studying biomolecular interactions and structure–function relationships
 * Designing reproducible scientific computing workflows for research applications
 * Connecting computational predictions with experimental validation in R&D environments
+
+---
+## 🔒 Industrial Bioinformatics Consulting
+
+**Private Bioinformatics Consulting Project (Agri-biotechnology Startup)**
+
+Designed and implemented reproducible bioinformatics workflows for transcriptomic reanalysis and regulatory genomics, including RNA-seq quality control, differential expression analysis, promoter analysis, motif discovery, and scientific documentation.
+
+Project conducted under a confidentiality agreement (NDA). Code, datasets, and results are not publicly available.
 
 ---
 
