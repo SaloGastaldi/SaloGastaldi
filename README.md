@@ -109,7 +109,6 @@ Project conducted under a confidentiality agreement (NDA). Code, datasets, and r
 
 - Based in Rosario, Argentina 🇦🇷
 - Open to remote, hybrid, and on-site opportunities
-- Open to relocation
 
 ---
 
