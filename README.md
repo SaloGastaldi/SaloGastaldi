@@ -1,16 +1,16 @@
 # Hi, I'm Salomé Gastaldi 👋
 
-**Computational & Experimental Biologist, PhD | Bioinformatics | Biophysics | AI/ML | Drug Discovery**
+**Computational & Experimental Biologist, PhD | Biotechnology | Biophysics | Bioinformatics | AI/ML**
 
-🔬 Integrating computational and experimental approaches to investigate biological systems and support life science R&D.
+🔬 Integrating computational and experimental approaches to investigate biological systems and advance biotechnology and life science R&D.
 
-I am a Computational & Experimental Biologist with a PhD in Biological Sciences and experience spanning biophysics, bioinformatics, molecular modeling, regulatory genomics, AI/ML, and experimental biology.
+I hold a PhD in Biological Sciences and a degree in Biotechnology, with a multidisciplinary background spanning computational biology, experimental biophysics, molecular modeling, bioinformatics, and artificial intelligence.
 
-My work combines computational modeling, biological data analysis, and experimental approaches to investigate biomolecular systems, test biological hypotheses, and support research and discovery.
+My scientific experience combines computational modeling, biological data analysis, and experimental investigation to study biomolecular systems, characterize molecular interactions, and evaluate scientific hypotheses.
 
-On the computational side, I develop reproducible workflows for biological sequence analysis, transcriptomics, regulatory genomics, molecular simulation, and machine learning. Experimentally, my background includes biophysical characterization, biomimetic membrane systems, microscopy, spectrophotometry, and cell-based assays.
+On the computational side, I develop reproducible workflows for biological sequence analysis, transcriptomics, regulatory genomics, molecular simulations, and machine learning. My experimental background includes biophysical characterization, biomimetic membrane systems, microscopy, spectrophotometry, and cell-based assays.
 
-I am particularly interested in research environments where computational and experimental approaches complement each other, while remaining open to roles focused primarily on either area.
+I am interested in research opportunities across computational and experimental life sciences, including positions focused on either area and interdisciplinary projects that integrate both.
 
 ---
 
@@ -20,15 +20,16 @@ I am particularly interested in research environments where computational and ex
 
 - Biological sequence analysis
 - RNA-seq and transcriptomic data analysis
+- Differential gene expression analysis
 - Regulatory genomics and promoter analysis
-- Machine learning and deep learning for biological data
 - Protein representation learning
-- Scientific computing and workflow automation
-- Reproducible bioinformatics pipelines
+- Computational analysis of biological datasets
+- Reproducible bioinformatics workflows
 - HPC-based computational research
 
 ### 🔬 Experimental Biology & Biophysics
 
+- Experimental design, execution, and data analysis
 - Biophysical and spectrophotometric characterization
 - Biomimetic membrane systems
 - Langmuir monolayers
@@ -46,24 +47,48 @@ I am particularly interested in research environments where computational and ex
 - Protein–ligand interaction analysis
 - Protein–membrane modeling
 - Membrane biophysics
-- Computational workflows for drug discovery
+- Structure–function relationship studies
+- Reproducible molecular modeling workflows
+
+### 🧠 AI & Machine Learning for Life Sciences
+
+- Deep learning for biological sequence modeling
+- CNNs, recurrent neural networks, and Transformers
+- Molecular property prediction
+- Regulatory DNA modeling
+- Protein and molecular representation learning
+- Interpretable machine learning
+- Leakage-aware model evaluation
+- Nested cross-validation and permutation testing
+- In silico sequence perturbation
+
+### 📊 Scientific Computing & Data Engineering
+
+- Scientific workflow automation
+- Reproducible computational pipelines
+- Biological and molecular data processing
+- Workflow optimization for research environments
+- HPC-based scientific computing
+- Large-scale simulation data analysis
 
 ---
 
-## 🧪 What I Do
+## 🧪 Research Experience & Approach
 
-I work across **computational and experimental biology**, using both approaches to investigate biological systems and support biotech and life science R&D.
+My research background spans **computational biology, experimental biophysics, molecular modeling, bioinformatics, and AI/ML**, with experience applying these approaches to biological questions.
 
 My work includes:
 
+- Developing bioinformatics workflows for transcriptomic and regulatory sequence analysis
 - Designing, performing, and analyzing experiments to investigate biomolecular systems
-- Performing biophysical characterization using membrane models, microscopy, and spectrophotometric approaches
-- Working with cell culture, cell counting, and cell viability assays
-- Integrating computational predictions with experimental evidence
-- Developing bioinformatics workflows for omics and biological sequence analysis
-- Applying machine learning and deep learning to biological and molecular data
-- Performing molecular modeling, docking, virtual screening, and Molecular Dynamics simulations
-- Developing reproducible scientific workflows for research environments
+- Characterizing membrane models and biomolecular interactions through biophysical techniques
+- Applying microscopy, spectrophotometry, and cell-based assays
+- Investigating protein–ligand and protein–membrane interactions using molecular simulations
+- Performing molecular docking and virtual screening
+- Building machine learning and deep learning models for biological and molecular data
+- Applying statistical validation and interpretability methods
+- Developing reproducible scientific computing workflows
+- Integrating computational predictions with experimental observations and biological interpretation
 
 ---
 
@@ -79,13 +104,14 @@ Project conducted under a confidentiality agreement (NDA). Code, datasets, and r
 
 ## 💼 Research & Industry Focus
 
-- Experimental biology and biophysics
 - Computational biology and bioinformatics
+- Experimental biology and biophysics
 - Integrated computational–experimental research
-- Molecular modeling and drug discovery
-- AI/ML applications in life sciences
-- Regulatory genomics and transcriptomics
+- Biotechnology research and development
 - Biomolecular interactions and membrane biophysics
+- Molecular modeling and drug discovery
+- Regulatory genomics and transcriptomics
+- AI/ML applications in life sciences
 - Biotech and pharmaceutical R&D
 - Scientific computing and research software
 
@@ -95,9 +121,10 @@ Project conducted under a confidentiality agreement (NDA). Code, datasets, and r
 
 - Research Scientist — Life Sciences
 - Computational & Experimental Biologist
+- Computational Biologist
 - Experimental Biologist
 - Biophysics Scientist
-- Computational Biologist
+- Biotechnology R&D Scientist
 - Bioinformatician
 - Molecular Modeling Scientist
 - AI / Machine Learning Scientist — Life Sciences
@@ -122,6 +149,10 @@ Python • R • Bash • Pandas • NumPy • SciPy • Scikit-learn • PyTorc
 
 RNA-seq • NGS • Regulatory Genomics • Biological Sequence Analysis • Biopython • DESeq2 • edgeR
 
+### Experimental Biology & Biophysics
+
+Biophysical Assays • Spectrophotometry • Langmuir Monolayers • Biomimetic Membrane Models • Optical Microscopy • Fluorescence Microscopy • Brewster Angle Microscopy • Cell Culture • Cell Counting • MTT Assays
+
 ### AI & Machine Learning
 
 CNNs • RNNs • Transformers • Representation Learning • Interpretable ML • Nested Cross-Validation • Permutation Testing
@@ -134,10 +165,6 @@ GROMACS • AutoDock Vina • RDKit • VMD • AlphaFold • RosettaFold
 
 Linux • Git • HPC • SLURM • JupyterLab • Conda
 
-### Experimental Biology & Biophysics
-
-Biophysical Assays • Spectrophotometry • Langmuir Monolayers • Optical Microscopy • Fluorescence Microscopy • Brewster Angle Microscopy • Cell Culture • Cell Counting • MTT Assays
-
 ### Workflow Development
 
 Scientific Data Processing • Workflow Automation • Reproducible Computational Pipelines
@@ -146,7 +173,7 @@ Scientific Data Processing • Workflow Automation • Reproducible Computationa
 
 ## 📌 Featured Computational Projects
 
-The repositories below highlight the computational side of my work, including AI/ML, molecular modeling, bioinformatics, and scientific computing.
+The repositories below showcase the **computational component of my scientific background**, including bioinformatics, AI/ML, molecular modeling, and scientific computing. My broader research experience also includes experimental biology and biophysics.
 
 ### 🧬 AI for Drug Discovery & Biological Sequence Modeling
 
@@ -174,11 +201,13 @@ Python-based scientific computing, algorithm development, biological data proces
 
 ---
 
-## 🧠 Current Focus
+## 🧠 Research Interests & Current Focus
 
-Exploring opportunities across **computational and experimental life sciences**, including computational biology, bioinformatics, biophysics, molecular modeling, AI/ML, drug discovery, and experimental research.
+My scientific interests span **computational biology, experimental biophysics, biotechnology, bioinformatics, molecular modeling, and AI/ML for life sciences**.
 
-I am particularly interested in projects where computational and experimental approaches can complement each other to investigate biological mechanisms and support biotechnology and pharmaceutical R&D.
+I am particularly interested in investigating biological mechanisms, characterizing biomolecular interactions, developing reproducible research methodologies, and applying computational and experimental approaches to biotechnology and pharmaceutical R&D.
+
+I welcome opportunities in computational research, experimental research, and interdisciplinary environments where both approaches can contribute to scientific discovery.
 
 ---
 
