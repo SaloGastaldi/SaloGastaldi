@@ -41,7 +41,7 @@ I am interested in research opportunities across computational and experimental 
 
 ### ⚛️ Molecular Modeling & Drug Discovery
 
-- Molecular Dynamics simulations
+- Molecular dynamics simulations
 - Molecular and ensemble docking
 - Virtual screening
 - Protein–ligand interaction analysis
@@ -201,6 +201,93 @@ Python-based scientific computing, algorithm development, biological data proces
 
 ---
 
+## 🔬 Featured Experimental & Computational Research
+
+### Molecular Interactions with Biological Membranes — PhD Research
+
+My doctoral research integrated experimental biophysics and computational molecular modeling to investigate the interactions of bioactive compounds with lipid membranes and membrane proteins.
+
+**Experimental approaches**
+
+- Langmuir and Gibbs monolayers
+- Biomimetic lipid membrane systems
+- Surface pressure measurements and compression isotherms
+- Molecular penetration and partitioning assays
+- Epifluorescence and Brewster angle microscopy
+- Biophysical characterization of membrane organization
+
+**Computational approaches**
+
+- Atomistic molecular dynamics simulations
+- Molecular docking and virtual screening
+- Protein–ligand and molecule–membrane interaction analysis
+- Structural and energetic characterization of molecular systems
+- Integration of molecular simulations with experimental observations
+
+**Research highlights**
+
+- Investigated the interaction of fluralaner with DPPC lipid monolayers using complementary experimental and computational approaches.
+- Experimentally characterized compound penetration, changes in lipid packing, and modifications in membrane organization.
+- Applied molecular dynamics simulations to investigate compound distribution, orientation, and interactions within lipid environments.
+- Integrated experimental measurements and atomistic simulations to interpret molecular mechanisms underlying membrane perturbations.
+
+This research illustrates my interdisciplinary approach to biological questions, combining experimental evidence with molecular-level computational analysis.
+
+---
+
+### Molecular Modeling & Virtual Screening of Insect GABA Receptors
+
+My doctoral research also included the computational characterization of insect GABA receptors and the development of molecular modeling strategies to investigate ligand binding and identify potential bioactive compounds.
+
+**Research approaches**
+
+- Molecular dynamics simulations of receptor–ligand complexes
+- Characterization of the NCA-II binding site
+- Analysis of ligand–receptor interactions and energetic contributions
+- Structure-based and ligand-based virtual screening
+- Molecular docking and candidate compound evaluation
+
+**Research highlights**
+
+- Characterized molecular interactions between isoxazoline insecticides and the *Aedes aegypti* GABA receptor.
+- Investigated structural and energetic factors influencing ligand binding.
+- Combined molecular dynamics and virtual screening to identify candidate compounds.
+- Identified a quinazoline family with reported insecticidal activity and proposed the NCA-II site as a potential molecular target for further investigation.
+
+These studies contributed to the development of computational strategies for insecticide discovery and molecular target characterization.
+
+---
+
+## 📚 Selected Scientific Publications
+
+### 🧬 Molecular Dynamics & Virtual Screening — 2026
+
+**Molecular Dynamics Characterization of the NCA-II Binding Site in Insect GABAA Receptors and Its Application to Ligand Screening**
+
+Gastaldi, M. S., Sánchez-Borzone, M. E., Deb, P. K., Kar, S., Venugopala, K. N., García, D. A., & Miguel, V.
+
+*Indian Journal of Pharmaceutical Education and Research*, 60(2s), s507–s521 (2026).
+
+This study combines molecular dynamics simulations with structure-based and ligand-based virtual screening to characterize insect GABA receptor interactions and investigate potential new insecticidal compounds.
+
+📄 Publication: https://doi.org/10.5530/ijper.20264008
+
+💬 LinkedIn publication announcement: https://www.linkedin.com/feed/update/urn:li:activity:7413984262732910593/
+
+---
+
+### 🔬 Experimental Biophysics & Molecular Simulations — 2023
+
+**Theoretical and Experimental Study of Molecular Interactions of Fluralaner with Lipid Membranes**
+
+*Journal of Agricultural and Food Chemistry* (2023).
+
+An interdisciplinary investigation combining experimental lipid monolayer studies, microscopy, and molecular dynamics simulations to characterize the interactions of fluralaner with model membranes.
+
+The study demonstrates how complementary experimental and computational approaches can provide insights into the molecular mechanisms governing compound–membrane interactions.
+
+---
+
 ## 🧠 Research Interests & Current Focus
 
 My scientific interests span **computational biology, experimental biophysics, biotechnology, bioinformatics, molecular modeling, and AI/ML for life sciences**.
@@ -213,5 +300,5 @@ I welcome opportunities in computational research, experimental research, and in
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/mar%C3%ADa-salom%C3%A9-gastaldi
+- LinkedIn: www.linkedin.com/in/maría-salomé-gastaldi
 - Email: msalomegastaldi@gmail.com
