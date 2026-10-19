@@ -75,20 +75,15 @@ I am interested in research opportunities across computational and experimental 
 
 ## 🧪 Research Experience & Approach
 
-My research background spans **computational biology, experimental biophysics, molecular modeling, bioinformatics, and AI/ML**, with experience applying these approaches to biological questions.
+My research combines **experimental evidence, molecular-level modeling, and quantitative data analysis** to investigate biomolecular interactions and biological mechanisms.
 
-My work includes:
+Across academic research and industry consulting, I have:
 
-- Developing bioinformatics workflows for transcriptomic and regulatory sequence analysis
-- Designing, performing, and analyzing experiments to investigate biomolecular systems
-- Characterizing membrane models and biomolecular interactions through biophysical techniques
-- Applying microscopy, spectrophotometry, and cell-based assays
-- Investigating protein–ligand and protein–membrane interactions using molecular simulations
-- Performing molecular docking and virtual screening
-- Building machine learning and deep learning models for biological and molecular data
-- Applying statistical validation and interpretability methods
-- Developing reproducible scientific computing workflows
-- Integrating computational predictions with experimental observations and biological interpretation
+- Designed and analyzed biophysical experiments using biomimetic membrane systems, microscopy, spectrophotometry, and cell-based assays
+- Investigated protein–ligand and molecule–membrane interactions through molecular dynamics, docking, and virtual screening
+- Developed reproducible bioinformatics workflows for transcriptomics and regulatory sequence analysis
+- Applied machine learning, statistical validation, and interpretable modeling to biological data
+- Integrated computational findings with experimental observations and biological interpretation
 
 ---
 
@@ -104,31 +99,18 @@ Project conducted under a confidentiality agreement (NDA). Code, datasets, and r
 
 ## 💼 Research & Industry Focus
 
-- Computational biology and bioinformatics
-- Experimental biology and biophysics
-- Integrated computational–experimental research
-- Biotechnology research and development
-- Biomolecular interactions and membrane biophysics
-- Molecular modeling and drug discovery
-- Regulatory genomics and transcriptomics
-- AI/ML applications in life sciences
-- Biotech and pharmaceutical R&D
-- Scientific computing and research software
+I am interested in research and development across **biotechnology, biophysics, bioinformatics, drug discovery, and life sciences**, including roles focused on experimental research, computational research, or their integration. I am also interested in translating scientific methods into reproducible tools and analyses for industrial R&D.
 
 ---
 
 ## 🎯 Target Roles
 
-- Research Scientist — Life Sciences
-- Computational & Experimental Biologist
-- Computational Biologist
-- Experimental Biologist
-- Biophysics Scientist
-- Biotechnology R&D Scientist
-- Bioinformatician
-- Molecular Modeling Scientist
+- Research Scientist / Biotechnology R&D Scientist
+- Computational Biologist / Bioinformatician
+- Experimental Biologist / Biophysics Scientist
+- Molecular Modeling Scientist / Computational Scientist
 - AI / Machine Learning Scientist — Life Sciences
-- Computational Scientist
+- Interdisciplinary Computational–Experimental Research Scientist
 
 ---
 
@@ -181,7 +163,7 @@ Deep learning and machine learning for genomic, protein, molecular, and regulato
 
 **Featured project — Regulatory DNA Modeling & Interpretable AI:** leakage-aware regulatory sequence modeling using CNNs and interpretable k-mer representations, with nested cross-validation, permutation testing, independent test evaluation, and controlled in silico sequence perturbation.
 
-🔗 Repository: https://github.com/SaloGastaldi/ai-for-drug-discovery
+🔗 Repository: [https://github.com/SaloGastaldi/ai-for-drug-discovery](https://github.com/SaloGastaldi/ai-for-drug-discovery)
 
 ---
 
@@ -189,7 +171,7 @@ Deep learning and machine learning for genomic, protein, molecular, and regulato
 
 Automated molecular dynamics, docking, virtual screening, and membrane biophysics analysis pipelines for reproducible molecular modeling and drug discovery workflows.
 
-🔗 Repository: https://github.com/SaloGastaldi/md-drug-discovery-workflows
+🔗 Repository: [https://github.com/SaloGastaldi/md-drug-discovery-workflows](https://github.com/SaloGastaldi/md-drug-discovery-workflows)
 
 ---
 
@@ -197,7 +179,7 @@ Automated molecular dynamics, docking, virtual screening, and membrane biophysic
 
 Python-based scientific computing, algorithm development, biological data processing, and workflow automation for reproducible research applications.
 
-🔗 Repository: https://github.com/SaloGastaldi/scientific-data-engineering-biotech
+🔗 Repository: [https://github.com/SaloGastaldi/scientific-data-engineering-biotech](https://github.com/SaloGastaldi/scientific-data-engineering-biotech)
 
 ---
 
@@ -270,9 +252,9 @@ Gastaldi, M. S., Sánchez-Borzone, M. E., Deb, P. K., Kar, S., Venugopala, K. N.
 
 This study combines molecular dynamics simulations with structure-based and ligand-based virtual screening to characterize insect GABA receptor interactions and investigate potential new insecticidal compounds.
 
-📄 Publication: https://doi.org/10.5530/ijper.20264008
+📄 Publication: [https://doi.org/10.5530/ijper.20264008](https://doi.org/10.5530/ijper.20264008)
 
-💬 LinkedIn publication announcement: https://www.linkedin.com/feed/update/urn:li:activity:7413984262732910593/
+💬 LinkedIn publication announcement: [https://www.linkedin.com/feed/update/urn:li:activity:7413984262732910593/](https://www.linkedin.com/feed/update/urn:li:activity:7413984262732910593/)
 
 ---
 
@@ -286,19 +268,23 @@ An interdisciplinary investigation combining experimental lipid monolayer studie
 
 The study demonstrates how complementary experimental and computational approaches can provide insights into the molecular mechanisms governing compound–membrane interactions.
 
+📄 Publication: [https://doi.org/10.1021/acs.jafc.2c06811](https://doi.org/10.1021/acs.jafc.2c06811)
+
 ---
 
-## 🧠 Research Interests & Current Focus
+### 🔬 Membrane Biophysics & Molecular Localization — 2022
 
-My scientific interests span **computational biology, experimental biophysics, biotechnology, bioinformatics, molecular modeling, and AI/ML for life sciences**.
+**Combined in-silico and in-vitro experiments support acid-base equilibrium as a tool to estimate the localization depth of 4-nitrophenol within a phospholipid bilayer**
 
-I am particularly interested in investigating biological mechanisms, characterizing biomolecular interactions, developing reproducible research methodologies, and applying computational and experimental approaches to biotechnology and pharmaceutical R&D.
+*Biochimica et Biophysica Acta (BBA) – Biomembranes* (2022).
 
-I welcome opportunities in computational research, experimental research, and interdisciplinary environments where both approaches can contribute to scientific discovery.
+An experimental and computational study of 4-nitrophenol interactions with phospholipid membranes, exploring how acid–base equilibrium can help estimate molecular localization depth within a lipid bilayer.
+
+📄 Publication: [https://doi.org/10.1016/j.bbamem.2022.184009](https://doi.org/10.1016/j.bbamem.2022.184009)
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: www.linkedin.com/in/maría-salomé-gastaldi
-- Email: msalomegastaldi@gmail.com
+- LinkedIn: [linkedin.com/in/maría-salomé-gastaldi](https://www.linkedin.com/in/mar%C3%ADa-salom%C3%A9-gastaldi/)
+- Email: [msalomegastaldi@gmail.com](mailto:msalomegastaldi@gmail.com)
